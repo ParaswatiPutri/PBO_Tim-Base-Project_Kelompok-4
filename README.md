@@ -1,6 +1,6 @@
 # 🏕️ Mendoventura - Sistem Penyewaan Alat Camping Berbasis Objek
 
-Mendoventura adalah sistem informasi manajemen penyewaan perlengkapan kegiatan luar ruang (*outdoor*) yang dirancang menggunakan paradigma Pemrograman Berorientasi Objek (PBO). Sistem ini mendigitalisasi proses bisnis rental alat camping untuk mengatasi masalah *double booking*, ketidakakuratan stok, serta mempermudah penelusuran kerusakan atau kehilangan alat.
+Mendoventura adalah sistem informasi manajemen penyewaan perlengkapan kegiatan outdoor yang dirancang menggunakan paradigma Pemrograman Berorientasi Objek (PBO). Sistem ini mendigitalisasi proses bisnis rental alat camping untuk mengatasi masalah *double booking*, ketidakakuratan stok, serta mempermudah penelusuran kerusakan atau kehilangan alat.
 
 ---
 
